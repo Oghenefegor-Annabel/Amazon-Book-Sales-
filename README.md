@@ -38,7 +38,8 @@ This project analyzes Amazon book sales data from 2023 to 2025 to identify trend
 An interactive Tableau dashboard was created to visualize key insights 
 
 ### 📷 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard]<img width="1016" height="964" alt="image" src="https://github.com/user-attachments/assets/b9cbad61-8111-4571-904e-2d741c9c391e" />
+
 
 ---
 
