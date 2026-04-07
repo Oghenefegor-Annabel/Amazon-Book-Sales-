@@ -44,13 +44,7 @@ An interactive Tableau dashboard was created to visualize key insights
 ---
 
 ## 🔍 Key Insights
-Amazon should focus more on chidren books because it has more sales.
-
-
----
-
-## 🔗 Links
-- Tableau Dashboard: (Insert Tableau Public link here)  
+Amazon should focus more on chidren books because it has more sales.  
 
 ---
 
